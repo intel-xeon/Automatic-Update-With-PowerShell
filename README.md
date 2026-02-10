@@ -1,6 +1,4 @@
-<h2>Automatic update with PowerShell</h2>
-
-<i style="color:blue">>_</i>
+<h2>Automatic update with PowerShell >_</h2>
 
 Open PowerShell (with admin right) and run this command for automatic update:
 
