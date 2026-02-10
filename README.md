@@ -1,5 +1,3 @@
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/59a27a8b-952d-4ade-b6db-b9d4ec9ee16d" />
-
 Run this command for automatic update:
 
 <code>
