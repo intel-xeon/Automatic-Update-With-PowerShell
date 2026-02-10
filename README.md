@@ -10,3 +10,5 @@ Open PowerShell (with admin right) and run this command for automatic update:
 
 
 You may need to disable your AV solution.
+
+<strong>Warning: Automatic reboot</strong>
