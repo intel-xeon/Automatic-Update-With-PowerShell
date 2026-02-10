@@ -1,4 +1,4 @@
-<h2>Automatic update with PowerShell</h2>
+<h2>Automatic update with PowerShell >_</h2>
 
 Open PowerShell (with admin right) and run this command for automatic update:
 
